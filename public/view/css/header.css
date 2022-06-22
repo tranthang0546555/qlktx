@@ -1,0 +1,7 @@
+.banner{
+	width: 100%;
+    height: auto;
+}
+.banner-area{
+	background:url(../img/banner.jpg);
+}
